@@ -1,0 +1,7 @@
+OrderID,Date,Product,Category,Region,Sales,Quantity
+1001,2024-01-05,Laptop,Electronics,Cairo,15000,2
+1002,2024-01-10,Phone,Electronics,Giza,8000,3
+1003,2024-02-02,Chair,Furniture,Alex,4000,5
+1004,2024-02-15,Desk,Furniture,Cairo,7000,2
+1005,2024-03-01,Headphones,Electronics,Giza,3000,4
+1006,2024-03-12,Sofa,Furniture,Alex,12000,1
